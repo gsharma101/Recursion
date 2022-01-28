@@ -10,5 +10,5 @@ void palindrome(int i, int arr[], int n){
 }
 
 int main(){
-   
+   file
 }
